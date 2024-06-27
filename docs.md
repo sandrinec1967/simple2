@@ -1,5 +1,5 @@
-This documentation describes how to use the Pavel automated toothbrush.
+This documentation describes how to use the Dimitri automated toothbrush.
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife and trees.
 
-The toothbrush requires (need info here).
+The toothbrush requires love and electricity.
